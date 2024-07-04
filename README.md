@@ -85,9 +85,12 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-![Simulator Screenshot - iPhone 15 Plus - 2024-07-04 at 15 39 07](https://github.com/AlexanderAdegbenro/FlickrImageSearch/assets/52863002/4b3396ec-5dcd-466d-838f-a417e6fe797c)
-![Simulator Screenshot - iPhone 15 Plus - 2024-07-04 at 15 39 02](https://github.com/AlexanderAdegbenro/FlickrImageSearch/assets/52863002/729196ed-1fc5-48d4-bdef-19d2ca0d4d49)
-
 If you have any questions or feedback, feel free to contact me at Adegbenroalexander15@gmail.com.com.
+
+<img src="https://github.com/AlexanderAdegbenro/FlickrImageSearch/assets/52863002/4b3396ec-5dcd-466d-838f-a417e6fe797c" width="300" height="650">
+<img src="https://github.com/AlexanderAdegbenro/FlickrImageSearch/assets/52863002/729196ed-1fc5-48d4-bdef-19d2ca0d4d49" width="300" height="650">
+
+
+
 
 
